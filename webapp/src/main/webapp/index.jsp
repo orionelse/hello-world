@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-   Edit area: 0.1
+   Edit area: 0.2
   
 </form>
