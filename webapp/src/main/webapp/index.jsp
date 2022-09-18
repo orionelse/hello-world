@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-   Edit area: 0.6 {git-jenkins-maven-ansible-dockerimg-dockerhost}
+   Edit area: 0.7 {git-jenkins-maven-ansible-dockerimg-k8s}
   
 </form>
