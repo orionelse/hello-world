@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-   Edit area: 0.8 {git-jenkins-maven-ansible-dockerimg-k8s chaining}
+   Edit area: 1.0 {git-jenkins-maven-ansible-dockerimg-k8s rolling}
   
 </form>
